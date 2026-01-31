@@ -3,7 +3,7 @@
 This project is an end-to-end Machine Learning web application that predicts the median house value in California based on housing and location-related features. The model is trained using scikit-learn Pipelines and deployed as a live application using Streamlit.
 
 🔗 Live App:  
-https://housing-price-krishna-bedi.streamlit.app/
+https://housing-price-california.streamlit.app/
 
 ---
 
